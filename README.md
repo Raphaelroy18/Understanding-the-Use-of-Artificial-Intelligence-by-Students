@@ -54,10 +54,17 @@ Aggregated data showing how many students used AI again versus not.
 
 	Basic Descriptive Analysis	
 Total Session Length in Minutes 		198464.67
+
 Average  Session Length in Minutes		19.846467
+
 Maximum  Session Length in Minutes		110.81
+
 Minimum  Session Length in Minutes		0.03
+
 Range of  Session Length in Minutes		110.78
+
+AI ADOPTION IN ACADEMIC WORKFLOW DASHBOARD(
+<img width="1214" height="683" alt="Screenshot 2025-08-08 112626" src="https://github.com/user-attachments/assets/8c94cf6b-3c10-4053-a0e0-4e01420923d6" />
 
 
 
