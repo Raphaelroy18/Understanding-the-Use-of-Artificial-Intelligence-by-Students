@@ -1,4 +1,4 @@
-# Understanding-the-Use-of-Artificial-Intelligence-by-Students
+# UNDERSTANDING THE USE OF ARTIFICIAL INTELLIGENCE BY STUDENTS
 ''Analysing how students use Artificial Intelligence in their academic work. The project explores AI adoption patterns across education levels, session durations, satisfaction ratings, and task types—providing data-driven insights into the role of AI in modern learning environments."
 
 ****OVERVIEW****
@@ -102,7 +102,7 @@ o	Business students showed a more balanced distribution across satisfaction leve
 
 o	70.64% of users reused the AI tools after their first session, indicating high perceived value.
 
-                                                        **SUMMARY, FINDINGS AND RECOMMENDATIONS**
+**SUMMARY, FINDINGS AND RECOMMENDATIONS**
 
 
 📌 **Key Findings**
