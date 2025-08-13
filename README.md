@@ -134,11 +134,11 @@ Students who spent longer time or issued more prompts generally had better outco
 
 🛠 **TOOLS USED**
 
-•	Microsoft Excel – Data cleaning and pivot table generation
+•	Microsoft Excel – Data cleaning and pivot table generation.
 
-•	Power BI – Data visualization and dashboard creation
+•	Power BI – Data visualization and dashboard creation.
 
-•	Python (Pandas) – (Optional) Data inspection and preparation
+•	Python (Pandas) – (Optional) Data inspection and preparation.
 
 🧠 **CONCLUSION**
 This project highlights how students use AI in their academic workflow and the impact it has on task success and satisfaction. With growing reliance on digital tools in education, understanding these patterns can help educators, developers, and institutions better integrate AI into learning environments.
